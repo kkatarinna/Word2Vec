@@ -214,4 +214,4 @@ __marimo__/
 cbow.py
 *.html
 explore_embeddings.py
-visualizer_html.py
+vizualizer_html.py
