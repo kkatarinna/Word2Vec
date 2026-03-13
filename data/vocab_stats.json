@@ -1,0 +1,10 @@
+{
+  "vocab_size": 6891,
+  "total_tokens": 203100,
+  "unk_index": 0,
+  "special_tokens": [
+    "<UNK>"
+  ],
+  "min_freq": 2,
+  "max_vocab": 10000
+}
