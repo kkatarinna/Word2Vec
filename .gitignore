@@ -210,3 +210,8 @@ __marimo__/
 *.DS_Store
 */.DS_Store
 .DS_Store?
+
+cbow.py
+*.html
+explore_embeddings.py
+visualizer_html.py
